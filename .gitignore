@@ -1,0 +1,5 @@
+vmlinuz
+initrd
+autoinstall.cfg
+.*.sw[a-z]
+*~

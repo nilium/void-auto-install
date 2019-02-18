@@ -1,0 +1,12 @@
+void-auto-install
+=================
+
+void-auto-install is an experimental implementation of the void-mklive
+auto-install script, except in Go. The eventual goal is to break down
+all stages of installation as units of configuration and, ideally, allow
+more, such as user/group creation, service configuration, and other
+elements of provisioning that I would like to have on my servers.
+
+This is not a necessary project and primarily exists to see what can be
+done. Current users of Void can already accomplish most of this with an
+end script through the installer.
